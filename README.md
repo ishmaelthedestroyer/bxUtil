@@ -47,13 +47,15 @@ Smarter Javascript for the browser.
 
 ## Usage
 
-Clone the repo into your project then add the bxUtil module to your Angular Module like so:
+1. Clone the repo into your project.
+2. Add `dist/bxUtil.js` to the head of your project.
+3. Bootstrap the bxUtil module to your Angular module like so:
 
 <pre>
 angular.boostrap('YourModule', [ 'bxUtil' ]);
 </pre>
 
-Require the bxUtil service in any of your modules and call any of its functions directly.
+Now you can require the bxUtil service in any of your modules and call any of its functions directly.
 
 <pre>
 YourModule.service('YourService', [ 'bxUtil', function(bxUtil) {
