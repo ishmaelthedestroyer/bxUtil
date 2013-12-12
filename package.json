@@ -1,0 +1,17 @@
+{
+  "name": "bxUtil",
+  "version": "0.0.2",
+  "description": "NodeJS utilities ported to AngularJS.",
+  "main": "bxUtil.js",
+  "repository": "https://github.com/ishmaelthedestroyer/bxUtil",
+  "keywords": [
+    "node",
+    "angular",
+    "util"
+  ],
+  "author": "ishmael td",
+  "dependencies": {
+  },
+  "devDependencies": {
+  }
+}
