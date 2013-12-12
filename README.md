@@ -1,44 +1,47 @@
 bxUtil
 ====
 
-NodeJS util package (as well as some extra) ported into an AngularJS module (service). Smarter Javascript for the browser.
+NodeJS util package (as well as some extra useful functions) ported into an AngularJS module (service).
+<br />
+Smarter Javascript for the browser.
 
-Functions include:
 
-isArray
-isBoolean
-isNull
-isNullOrUndefined
-isNumber
-isString
-isSymbol
-isUndefined
-isRegExp
-isObject
-isDate
-isError
-isFunction
-isPrimitive
-isBuffer
-format
-formatValue
-formatPrimitive
-formatError
-formatArray
-formatProperty
-reduceToSingleString
-pad
-objectToString
-stylizeWithColor
-stylizeNoColor
-inspect
-arrayToHash
-inherits
-_extend
-log
-random
-timestamp
-async
+##Functions include:
+
+- isArray
+- isBoolean
+- isNull
+- isNullOrUndefined
+- isNumber
+- isString
+- isSymbol
+- isUndefined
+- isRegExp
+- isObject
+- isDate
+- isError
+- isFunction
+- isPrimitive
+- isBuffer
+- format
+- formatValue
+- formatPrimitive
+- formatError
+- formatArray
+- formatProperty
+- reduceToSingleString
+- pad
+- objectToString
+- stylizeWithColor
+- stylizeNoColor
+- inspect
+- arrayToHash
+- inherits
+- _extend
+- log
+- random
+- timestamp
+- async
 
 <br />
 
